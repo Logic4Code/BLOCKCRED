@@ -1,0 +1,16 @@
+# Ignore node_modules (these are huge and shouldn't be in GitHub)
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore frontend build outputs
+frontend/dist/
+frontend/build/
+
+# Ignore the live blockchain data (so GitHub stays clean)
+backend/src/data/chain.json
+
+# OS files
+.DS_Store
+Thumbs.db

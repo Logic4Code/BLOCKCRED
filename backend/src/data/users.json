@@ -1,0 +1,58 @@
+[
+  {
+    "id": "inst-001",
+    "name": "National Institute of Technology Rourkela",
+    "shortName": "NIT Rourkela",
+    "role": "institution",
+    "email": "registrar@nitrkl.ac.in",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "accreditationCode": "NAAC-A",
+    "address": "Rourkela, Odisha - 769008"
+  },
+  {
+    "id": "inst-002",
+    "name": "National Institute of Technology Trichy",
+    "shortName": "NIT Trichy",
+    "role": "institution",
+    "email": "registrar@nitt.edu",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "accreditationCode": "NAAC-A",
+    "address": "Tiruchirappalli, Tamil Nadu - 620015"
+  },
+  {
+    "id": "stu-001",
+    "name": "Arjun Sharma",
+    "studentId": "22CS001",
+    "role": "student",
+    "email": "arjun.sharma@student.nitrkl.ac.in",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "institutionId": "inst-001",
+    "phone": "+91-9876543210"
+  },
+  {
+    "id": "stu-002",
+    "name": "Priya Menon",
+    "studentId": "22EC002",
+    "role": "student",
+    "email": "priya.menon@student.nitt.edu",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "institutionId": "inst-002",
+    "phone": "+91-9123456789"
+  },
+  {
+    "id": "emp-001",
+    "name": "Talent Acquisition",
+    "company": "TechCorp India Pvt. Ltd.",
+    "role": "employer",
+    "email": "hr@techcorp.in",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+  },
+  {
+    "id": "emp-002",
+    "name": "UPSC Verification Cell",
+    "company": "Union Public Service Commission",
+    "role": "employer",
+    "email": "verify@upsc.gov.in",
+    "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+  }
+]
