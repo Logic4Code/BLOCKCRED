@@ -1,6 +1,6 @@
 # 🔗 BlockCred — Blockchain-Backed Academic Credential Verification System
 
-> **Tamper-Proof · Instant Verification · SHA-256 Hash-Chain · Cyberpunk UI**
+> **Tamper-Proof · Instant Verification · SHA-256 Hash-Chain **
 
 BlockCred solves the problem of fake degrees and slow manual verification by issuing digitally-signed, blockchain-secured academic credentials. Employers and verifiers can instantly validate authenticity via QR code or credential ID — without ever contacting the issuing institution.
 
