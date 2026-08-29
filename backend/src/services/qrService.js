@@ -12,9 +12,9 @@ async function generateQRCode(verifyUrl) {
       type: 'image/png',
       quality: 0.95,
       margin: 1,
-      color: {
-        dark: '#00ff9d',   // neon green
-        light: '#0a0a1a'  // dark background
+            color: {
+        dark: '#000000',
+        light: '#ffffff'
       },
       width: 300
     });
