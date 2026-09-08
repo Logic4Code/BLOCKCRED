@@ -54,5 +54,25 @@
     "role": "employer",
     "email": "verify@upsc.gov.in",
     "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi"
+  },
+  {
+    "id": "stu-1788094068423",
+    "name": "om",
+    "studentId": "125cs0046",
+    "role": "student",
+    "email": "opearuse1@gmail.com",
+    "password": "$2a$10$tJjwti4MTzvpyY3aFyrekODhJOh8GwP2pNDWl4wAvZKinxhVF0vly",
+    "institutionId": "inst-001",
+    "phone": ""
+  },
+  {
+    "id": "stu-1788094293106",
+    "name": "x",
+    "studentId": "125cs0044",
+    "role": "student",
+    "email": "operause3@gmail.com",
+    "password": "$2a$10$Eti.OFdrJBhgfFNHasMUzOpv8dEqVuw9WUKW23jJ4KfpkOvqaS1RC",
+    "institutionId": "inst-001",
+    "phone": ""
   }
 ]
